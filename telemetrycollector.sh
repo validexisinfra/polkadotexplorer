@@ -10,7 +10,7 @@
 #  - Cron job that runs every 5 minutes
 #
 # Designed for usage:
-#   source <(curl -s https://raw.githubusercontent.com/validexisinfra/<repo>/polkadot_telemetry.sh)
+#   source <(curl -s https://raw.githubusercontent.com/validexisinfra/polkadotexplorer/blob/main/telemetrycollector.sh)
 ###############################################################################
 
 set -e
